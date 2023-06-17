@@ -1,0 +1,11 @@
+export { default as LoginPage } from './LoginPage';
+export { default as HomePage } from './HomePage';
+export { default as CategoriesPage } from './CategoriesPage';
+export { default as MarketsPage } from './MarketsPage';
+export { default as HotelsPage } from './HotelsPage';
+export { default as BookingsPage } from './BookingsPage';
+export { default as PaymentsPage } from './PaymentsPage';
+export { default as SettingsPage } from './SettingPage';
+export { default as UsersPage } from './UsersPage'
+export { default as CustomersPage } from './CustomersPage';
+export { default as BusinessSettings } from './BusinessSettings';
